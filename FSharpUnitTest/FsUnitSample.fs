@@ -10,8 +10,3 @@ let ``when I ask whether it is On it answers true.``()=
 [<Fact>] 
 let ``when I convert it to a string it becomes "On".``()=
     "On" |> should equal "On"
-
-
-
-
-
